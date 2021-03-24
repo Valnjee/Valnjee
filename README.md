@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valnjee
 - 👀 I’m interested in Data Analytics / Science
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on with other experts in the industries
+- 💞️ I’m looking to collaborate on with other experts in the field
 - 📫 How to reach me at val.fotso@gmail.com
 
 <!---

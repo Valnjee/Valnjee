@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Valnjee
 - 👀 Data Analytics / Science
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on with other experts in the field
+- 💞️ I’m looking to collaborate with other experts in the field
 - 📫 How to reach me at valerie.fotso@web2gotech.com
 
 <!---

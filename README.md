@@ -2,7 +2,7 @@
 - 👀 Data Science / Analytics
 - 🌱 I’m currently working on AI projects
 - 💞️ I’m looking foward to collaborate with other experts in these fields
-- 📫 How to reach me at valerie.fotso@web2gotech.com
+- 📫 How to reach me at valerie.njee@web2gotech.com
 
 <!---
 Valnjee/Valnjee is a ✨ Data Scientist / Analytics expert ✨ repositories because its `README.md` (this file) appears on your GitHub profile.

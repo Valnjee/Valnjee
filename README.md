@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Valnjee
 - 👀 Data Science / Analytics
-- 🌱 I’m currently working on AI projects
+- 🌱 I’m currently working on engineering projects
 - 💞️ I’m looking foward to collaborate with other experts in these fields
 - 📫 How to reach me at valerie.njee@web2gotech.com
 
